@@ -6,4 +6,3 @@ jupiter
 satrun
 uranus
 neptupe
-pluto
